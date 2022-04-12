@@ -1,13 +1,15 @@
-[
-  { "id": 0, "name": "john" },
-  { "id": 1, "name": "carter" },
-  { "id": 2, "name": "robert" },
-  { "id": 3, "name": "downey" },
-  { "id": 4, "name": "junior" },
-  { "id": 5, "name": "chris" },
-  { "id": 6, "name": "evans" },
-  { "id": 7, "name": "elizabeth" },
-  { "id": 8, "name": "olsen" },
-  { "id": 9, "name": "oscar" },
-  { "id": 10, "name": "isaac" }
-]
+{
+  "users": [
+    { "id": 0, "name": "john" },
+    { "id": 1, "name": "carter" },
+    { "id": 2, "name": "robert" },
+    { "id": 3, "name": "downey" },
+    { "id": 4, "name": "junior" },
+    { "id": 5, "name": "chris" },
+    { "id": 6, "name": "evans" },
+    { "id": 7, "name": "elizabeth" },
+    { "id": 8, "name": "olsen" },
+    { "id": 9, "name": "oscar" },
+    { "id": 10, "name": "isaac" }
+  ]
+}
